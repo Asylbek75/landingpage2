@@ -29,7 +29,7 @@ li {
 }
 
 #map {
-	background-image: url('./assets/images/ocean.jpg');
+	background-image: url(ocean.jpg);
 	opacity: 0.5;
 }
 
